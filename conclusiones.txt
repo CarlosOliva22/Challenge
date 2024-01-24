@@ -1,0 +1,9 @@
+CONCLUSIONES:
+
+- Este Proyecto asienta las bases para la realización de pruebas automatizadas con Karate.
+
+- Cada ejercicio que se realiza aumenta y fortalece los conocimientos en automatización de API - Karate.
+
+- En NTTDATA siempre hay un equipo detras, en quien nos podemos apoyar para consultas puntuales y apoyo en la resolución de errores que se presentan como parte del ejercicio.
+
+- Concluyo diciendo que con este ejecicio me siento preparado para afrontar cualquier trabaja de automatización de API's - Karate. 
