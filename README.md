@@ -1,2 +1,2 @@
 # Challenge
-Contiene los ejercicios de automatización web y de API's
+Contiene los ejercicios de automatización Web, API's y Mobile.
